@@ -1,0 +1,27 @@
+.movie-detail {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .movie-detail h2 {
+    font-size: 2.5rem;
+    color: #282c34;
+    margin-bottom: 20px;
+  }
+  
+  .movie-detail p {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .movie-detail iframe {
+    margin-bottom: 20px;
+  }
+  
+  .movie-detail a {
+    text-decoration: none;
+    color: #61dafb;
+    font-size: 1.2rem;
+  }
+  
